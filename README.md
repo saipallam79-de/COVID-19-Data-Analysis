@@ -1,12 +1,12 @@
-# AI Chatbot for Student Queries
+# COVID-19 Data Analysis
 
-**Description:** This project will be a Python-based chatbot using NLP to answer student questions about coursework and exams.
+**Description:** This project will analyze COVID-19 datasets to identify trends and create predictive models using Python.
 
-**Technologies:** Python, NLTK, Scikit-learn
+**Technologies:** Python, Pandas, Matplotlib, Machine Learning
 
 **Planned Features:**
-- Answer common student questions
-- Recognize different intents
-- Provide automated responses
+- Analyze COVID-19 case trends over time
+- Create visualizations of cases, recoveries, and deaths
+- Build predictive models to forecast future trends
 
 **Status:** Idea / Not yet implemented
