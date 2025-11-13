@@ -9,4 +9,3 @@
 - Create visualizations of cases, recoveries, and deaths
 - Build predictive models to forecast future trends
 
-**Status:** Idea / Not yet implemented
